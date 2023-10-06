@@ -16,11 +16,11 @@ Demonstrate:
 #### <ins>Cool Images You Should Probably See<ins>
 
 First, here's a picture from my recent hiking trip on the Ptarmigan Traverse in the North Cascades.
-![glacier](/night1.jpg)
+![glacier](/night1.JPG)
 
 Second, it's critical that you meet my cats, Pebbles (colloquially termed 'Peebs') and Theodore (aka 'Teetee Bear').
-![peebs](peebs.jpg)
-![tt](tt.jpg)
+![peebs](peebs.JPG)
+![tt](tt.JPG)
 
 #### <ins>Finally, Some Tables (in *tidy*, of course)<ins>
 
