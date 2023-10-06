@@ -16,7 +16,7 @@ Demonstrate:
 #### <ins>Cool Images You Should Probably See<ins>
 
 First, here's a picture from my recent hiking trip on the Ptarmigan Traverse in the North Cascades.
-![glacier](night1.jpg)
+![glacier](/night1.jpg)
 
 Second, it's critical that you meet my cats, Pebbles (colloquially termed 'Peebs') and Theodore (aka 'Teetee Bear').
 ![peebs](peebs.jpg)
