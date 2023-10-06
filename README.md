@@ -1,10 +1,12 @@
 
 # Homework 1 Markdown Script Test
+
 ## Remi Savard
 
 ### MCB 536A: TFCB_2023
 
 #### <ins>Goals<ins>
+
 Demonstrate: 
 1. *Headers*
 2. *Lists*
@@ -34,4 +36,5 @@ People in Remi's Life
 
 
 ##
+
 # *The End*
